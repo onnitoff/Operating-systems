@@ -1,0 +1,15 @@
+﻿  Source1.cpp
+D:\OC_евд\repos\labs\ex4\ex4\Source1.cpp(34,6): warning C4101: msg_С3: неиспользованная локальная переменная
+D:\OC_евд\repos\labs\ex4\ex4\Source1.cpp(33,7): warning C4101: hwnd_С3: неиспользованная локальная переменная
+D:\OC_евд\repos\labs\ex4\ex4\Source1.cpp(35,13): warning C4101: wcl_C3: неиспользованная локальная переменная
+D:\OC_евд\repos\labs\ex4\ex4\Source1.cpp(337,34): warning C4805: ==: небезопасное смешение типа "BOOL" и типа "bool" в операции
+D:\OC_евд\repos\labs\ex4\ex4\Source1.cpp(111,6): warning C4101: hdc: неиспользованная локальная переменная
+D:\OC_евд\repos\labs\ex4\ex4\Source1.cpp(115,6): warning C4101: msg_С2: неиспользованная локальная переменная
+D:\OC_евд\repos\labs\ex4\ex4\Source1.cpp(110,14): warning C4101: ps: неиспользованная локальная переменная
+D:\OC_евд\repos\labs\ex4\ex4\Source1.cpp(116,13): warning C4101: wcl_С2: неиспользованная локальная переменная
+D:\OC_евд\repos\labs\ex4\ex4\Source1.cpp(130,8): warning C4101: szTempFileName: неиспользованная локальная переменная
+D:\OC_евд\repos\labs\ex4\ex4\Source1.cpp(135,10): warning C4101: errMsg: неиспользованная локальная переменная
+D:\OC_евд\repos\labs\ex4\ex4\Source1.cpp(181,7): warning C4101: szFile: неиспользованная локальная переменная
+D:\OC_евд\repos\labs\ex4\ex4\Source1.cpp(131,8): warning C4101: lpTempPathBuffer: неиспользованная локальная переменная
+D:\OC_евд\repos\labs\ex4\ex4\Source1.cpp(114,7): warning C4101: hwnd_С2: неиспользованная локальная переменная
+  ex4.vcxproj -> D:\OC_евд\repos\labs\ex4\Debug\ex4.exe
