@@ -1,0 +1,30 @@
+H:\АОС\Labs\Lab_1\LAB_1_V2\LAB_5\LAB_5_V2\LAB_5_V2\bin\Debug\LAB_5_V2.exe.config
+H:\АОС\Labs\Lab_1\LAB_1_V2\LAB_5\LAB_5_V2\LAB_5_V2\bin\Debug\LAB_5_V2.exe
+H:\АОС\Labs\Lab_1\LAB_1_V2\LAB_5\LAB_5_V2\LAB_5_V2\bin\Debug\LAB_5_V2.pdb
+H:\АОС\Labs\Lab_1\LAB_1_V2\LAB_5\LAB_5_V2\LAB_5_V2\obj\Debug\LAB_5_V2.csproj.AssemblyReference.cache
+H:\АОС\Labs\Lab_1\LAB_1_V2\LAB_5\LAB_5_V2\LAB_5_V2\obj\Debug\LAB_5_V2.Form1.resources
+H:\АОС\Labs\Lab_1\LAB_1_V2\LAB_5\LAB_5_V2\LAB_5_V2\obj\Debug\LAB_5_V2.Properties.Resources.resources
+H:\АОС\Labs\Lab_1\LAB_1_V2\LAB_5\LAB_5_V2\LAB_5_V2\obj\Debug\LAB_5_V2.csproj.GenerateResource.cache
+H:\АОС\Labs\Lab_1\LAB_1_V2\LAB_5\LAB_5_V2\LAB_5_V2\obj\Debug\LAB_5_V2.csproj.CoreCompileInputs.cache
+H:\АОС\Labs\Lab_1\LAB_1_V2\LAB_5\LAB_5_V2\LAB_5_V2\obj\Debug\LAB_5_V2.exe
+H:\АОС\Labs\Lab_1\LAB_1_V2\LAB_5\LAB_5_V2\LAB_5_V2\obj\Debug\LAB_5_V2.pdb
+E:\АОС\Labs\Lab_1\LAB_1_V2\LAB_5\LAB_5_V2\LAB_5_V2\bin\Debug\LAB_5_V2.exe.config
+E:\АОС\Labs\Lab_1\LAB_1_V2\LAB_5\LAB_5_V2\LAB_5_V2\bin\Debug\LAB_5_V2.exe
+E:\АОС\Labs\Lab_1\LAB_1_V2\LAB_5\LAB_5_V2\LAB_5_V2\bin\Debug\LAB_5_V2.pdb
+E:\АОС\Labs\Lab_1\LAB_1_V2\LAB_5\LAB_5_V2\LAB_5_V2\obj\Debug\LAB_5_V2.csproj.SuggestedBindingRedirects.cache
+E:\АОС\Labs\Lab_1\LAB_1_V2\LAB_5\LAB_5_V2\LAB_5_V2\obj\Debug\LAB_5_V2.Form1.resources
+E:\АОС\Labs\Lab_1\LAB_1_V2\LAB_5\LAB_5_V2\LAB_5_V2\obj\Debug\LAB_5_V2.Properties.Resources.resources
+E:\АОС\Labs\Lab_1\LAB_1_V2\LAB_5\LAB_5_V2\LAB_5_V2\obj\Debug\LAB_5_V2.csproj.GenerateResource.cache
+E:\АОС\Labs\Lab_1\LAB_1_V2\LAB_5\LAB_5_V2\LAB_5_V2\obj\Debug\LAB_5_V2.csproj.CoreCompileInputs.cache
+E:\АОС\Labs\Lab_1\LAB_1_V2\LAB_5\LAB_5_V2\LAB_5_V2\obj\Debug\LAB_5_V2.exe
+E:\АОС\Labs\Lab_1\LAB_1_V2\LAB_5\LAB_5_V2\LAB_5_V2\obj\Debug\LAB_5_V2.pdb
+D:\OC_евд\Lab 5\LAB_5_V2\LAB_5_V2\bin\Debug\LAB_5_V2.exe.config
+D:\OC_евд\Lab 5\LAB_5_V2\LAB_5_V2\bin\Debug\LAB_5_V2.exe
+D:\OC_евд\Lab 5\LAB_5_V2\LAB_5_V2\bin\Debug\LAB_5_V2.pdb
+D:\OC_евд\Lab 5\LAB_5_V2\LAB_5_V2\obj\Debug\LAB_5_V2.csproj.AssemblyReference.cache
+D:\OC_евд\Lab 5\LAB_5_V2\LAB_5_V2\obj\Debug\LAB_5_V2.Form1.resources
+D:\OC_евд\Lab 5\LAB_5_V2\LAB_5_V2\obj\Debug\LAB_5_V2.Properties.Resources.resources
+D:\OC_евд\Lab 5\LAB_5_V2\LAB_5_V2\obj\Debug\LAB_5_V2.csproj.GenerateResource.cache
+D:\OC_евд\Lab 5\LAB_5_V2\LAB_5_V2\obj\Debug\LAB_5_V2.csproj.CoreCompileInputs.cache
+D:\OC_евд\Lab 5\LAB_5_V2\LAB_5_V2\obj\Debug\LAB_5_V2.exe
+D:\OC_евд\Lab 5\LAB_5_V2\LAB_5_V2\obj\Debug\LAB_5_V2.pdb
