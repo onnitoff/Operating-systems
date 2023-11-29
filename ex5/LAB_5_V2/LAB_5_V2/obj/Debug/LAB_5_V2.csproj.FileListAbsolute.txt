@@ -28,3 +28,13 @@ D:\OC_евд\Lab 5\LAB_5_V2\LAB_5_V2\obj\Debug\LAB_5_V2.csproj.GenerateResource.
 D:\OC_евд\Lab 5\LAB_5_V2\LAB_5_V2\obj\Debug\LAB_5_V2.csproj.CoreCompileInputs.cache
 D:\OC_евд\Lab 5\LAB_5_V2\LAB_5_V2\obj\Debug\LAB_5_V2.exe
 D:\OC_евд\Lab 5\LAB_5_V2\LAB_5_V2\obj\Debug\LAB_5_V2.pdb
+D:\OC_евд\repos\labs\ex5\LAB_5_V2\LAB_5_V2\bin\Debug\LAB_5_V2.exe.config
+D:\OC_евд\repos\labs\ex5\LAB_5_V2\LAB_5_V2\bin\Debug\LAB_5_V2.exe
+D:\OC_евд\repos\labs\ex5\LAB_5_V2\LAB_5_V2\bin\Debug\LAB_5_V2.pdb
+D:\OC_евд\repos\labs\ex5\LAB_5_V2\LAB_5_V2\obj\Debug\LAB_5_V2.csproj.AssemblyReference.cache
+D:\OC_евд\repos\labs\ex5\LAB_5_V2\LAB_5_V2\obj\Debug\LAB_5_V2.Form1.resources
+D:\OC_евд\repos\labs\ex5\LAB_5_V2\LAB_5_V2\obj\Debug\LAB_5_V2.Properties.Resources.resources
+D:\OC_евд\repos\labs\ex5\LAB_5_V2\LAB_5_V2\obj\Debug\LAB_5_V2.csproj.GenerateResource.cache
+D:\OC_евд\repos\labs\ex5\LAB_5_V2\LAB_5_V2\obj\Debug\LAB_5_V2.csproj.CoreCompileInputs.cache
+D:\OC_евд\repos\labs\ex5\LAB_5_V2\LAB_5_V2\obj\Debug\LAB_5_V2.exe
+D:\OC_евд\repos\labs\ex5\LAB_5_V2\LAB_5_V2\obj\Debug\LAB_5_V2.pdb

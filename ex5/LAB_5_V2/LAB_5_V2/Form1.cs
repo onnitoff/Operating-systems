@@ -85,7 +85,7 @@ namespace LAB_5_V2
 
             }
         }
-
+                      //////////ПРОЦЕССОР\\\\\\\\\\\\\
         private void button3_Click(object sender, EventArgs e)
         {
             List<string> param = new List<string>();
@@ -123,7 +123,7 @@ namespace LAB_5_V2
             }
         }
 
-
+                    //////////МЕТОД БИБЛИОТЕКИ SYSTEM.MANAGMENT\\\\\\\\\\\\\
         private static List<string> GetHardwareInfo(string WIN32_Class, List<string> ClassItemField)
         {
             List<string> result = new List<string>();
@@ -148,7 +148,7 @@ namespace LAB_5_V2
 
             return result;
         }
-
+                        //////////ВИДЕОАДАПТЕР\\\\\\\\\\\\\
         private void button4_Click(object sender, EventArgs e)
         {
             List<string> param = new List<string>();
@@ -169,7 +169,7 @@ namespace LAB_5_V2
             listView1.Columns.Add("Версия драйвера", 200, HorizontalAlignment.Left);
             listView1.Columns.Add("Объем памяти в байтах", 200, HorizontalAlignment.Left);
 
-            if (result.Count == 8)
+            if (result.Count > 0)
             {
                 ListViewItem item1 = new ListViewItem(i.ToString(), 0);
 
@@ -181,6 +181,10 @@ namespace LAB_5_V2
                 listView1.Items.AddRange(new ListViewItem[] { item1 });
                 i++;
 
+                
+            }
+            else if (result.Count > 4)
+            {
                 ListViewItem item2 = new ListViewItem(i.ToString(), 0);
 
                 item2.SubItems.Add(result[4].ToString());
@@ -198,7 +202,7 @@ namespace LAB_5_V2
                 listView1.Items.AddRange(new ListViewItem[] { item1 });
             }
         }
-
+                        //////////МАТЕРИНСКАЯ ПЛАТА\\\\\\\\\\\\\
         private void button5_Click(object sender, EventArgs e)
         {
             List<string> param = new List<string>();
@@ -238,7 +242,7 @@ namespace LAB_5_V2
                 listView1.Items.AddRange(new ListViewItem[] { item1 });
             }
         }
-
+                        //////////BIOS\\\\\\\\\\\\\
         private void button6_Click(object sender, EventArgs e)
         {
             List<string> param = new List<string>();
