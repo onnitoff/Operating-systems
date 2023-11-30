@@ -134,8 +134,10 @@ namespace LAB_5_V2
             {
                 foreach (ManagementObject obj in searcher.Get())
                 {
+                    var param_n = obj.Properties;
                     foreach (var item in ClassItemField)
                     {
+                        
                         result.Add(obj[item].ToString().Trim());
                     }
                     
@@ -249,7 +251,7 @@ namespace LAB_5_V2
             param.Add("Name");
             param.Add("Manufacturer");
             param.Add("SerialNumber");
-            param.Add("Version");
+            param.Add("IdentificationCode");
             var result = GetHardwareInfo("Win32_BIOS", param);
             int i = 1;
 
